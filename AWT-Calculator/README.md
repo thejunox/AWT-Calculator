@@ -17,6 +17,9 @@ A desktop calculator application built using Java's Abstract Window Toolkit (AWT
 - Java
 - AWT (Abstract Window Toolkit)
 
+## 🖼️ Screenshot
+
+![Screenshot](screenshot.png)
 
 ## 📂 How to Run
 
@@ -26,11 +29,12 @@ A desktop calculator application built using Java's Abstract Window Toolkit (AWT
 git clone https://github.com/thejunox/AWT-Calculator.git
 cd AWT-Calculator
 
+```
 2.Compile and run:
-
+```
 javac Calculator.java
 java Calculator
-
+```
 
 📄 License
 This project is licensed under the MIT License.
