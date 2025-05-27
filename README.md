@@ -1,9 +1,15 @@
-# AWT-Calculator
-A Java GUI calculator built with AWT
-
 # 👋 Hey, I'm Junox ⚡
 
 ### 🧠 Software Engineering Student | 💻 Full-Stack Dev | 🎮 Gamer | 🌌 Anime Fan
+
+
+
+
+# AWT-Calculator
+A Java GUI calculator built with AWT
+
+
+
 
 Welcome to my world of code, creativity, and curiosity. I go by **Junox** — a tech enthusiast who loves solving problems, building digital solutions, and diving deep into code just as much as I dive into anime arcs and AAA game titles.
 
